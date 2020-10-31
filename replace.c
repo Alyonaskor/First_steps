@@ -4,7 +4,7 @@ int main ()
 {
 char str[50] = "Replaceble characters";
 int i = 0;
-while(str[i])
+while(str[i]) 
 {
 
     if (!(str[i] == 'c' && str[i + 1] == 'h'))
