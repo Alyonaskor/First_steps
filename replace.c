@@ -19,4 +19,4 @@ while(str[i])
 printf("%s", str);
 
     return 0;
-}
+} 
